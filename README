@@ -1,0 +1,2 @@
+A java class for cubic spline interpolation. Look into CubicSplineInterpolate.java for further details. Depends on JAMA : A Java Matrix Package (http://math.nist.gov/javanumerics/jama/).
+
